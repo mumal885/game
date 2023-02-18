@@ -13,4 +13,4 @@ This game is coded in python
 
 ## Built With
 
-* [web-development](https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial/)  Programming Language 
+* [python](https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial/)  Programming Language 
